@@ -4,5 +4,12 @@ public class App{
 
         System.out.println("go to hell");
         System.out.println("i want to go");
-    }
+        App.gone();
+    } 
+public static void gone(){
+    System.out.println("it is the gone method");
+}
+    
+    
+
 }
